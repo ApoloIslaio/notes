@@ -4,4 +4,4 @@
 
 <img src="public/cap.png" />
 <br/>
-projeto feito no evento da Rocketseat nlw-expert
+Projeto feito no evento da Rocketseat nlw-expert.
